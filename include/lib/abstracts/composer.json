@@ -1,0 +1,10 @@
+{
+    "require": {
+        "google/apiclient": "^2.5",
+        "facebook/graph-sdk": "^5.7",
+        "linkedin/oauth2-linkedin": "^5.1",
+        "hybridauth/hybridauth": "^3.7",
+        "v-money": "^0.8.1",
+        "zoonman/linkedin-api-php-client": "^0.0.14"
+    }
+}

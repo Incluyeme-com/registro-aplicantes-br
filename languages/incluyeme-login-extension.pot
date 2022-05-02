@@ -1,0 +1,32 @@
+# Copyright (C) 2020 Jesus Nuñez
+# This file is distributed under the same license as the Incluyeme Login Extension plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Incluyeme Login Extension 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/incluyeme-login-extension\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-04-10T15:28:59+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: incluyeme-login-extension\n"
+
+#. Plugin Name of the plugin
+msgid "Incluyeme Login Extension"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://github.com/Cro22"
+msgstr ""
+
+#. Description of the plugin
+msgid "Extension de funciones (Registro) para el Plugin WPJob Board"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jesus Nuñez"
+msgstr ""
